@@ -1,6 +1,6 @@
 # Getting Started with Rental Mobil Alvi
 
-This project make to complete chapter 07 challenge of Binar Academy Full Stack Web Course.
+This project make to complete chapter 07 challenge of Binar Academy Full Stack Web Course. \
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
